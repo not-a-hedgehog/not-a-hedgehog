@@ -1,4 +1,4 @@
  Heyo 👋, i'm not a hedgehog.
 
-- I know only lua and javascript. 
+- I know GML, lua and javascript. 
 - Currently learning python.
